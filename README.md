@@ -1,4 +1,4 @@
-### Archive note: This was originally created to support upgrades to rails. We have stopped using this directly, and our indirect usage has been upgraded to the latest release. 
+### Archive note: This was originally created to support upgrades to Rails. We have stopped using this directly, and our indirect usage has been upgraded to the latest release. 
 
 # jquery-rails
 
