@@ -1,3 +1,5 @@
+### Archive note: This was originally created to support upgrades to Rails when the official gem did not. Newer versions of the public gem are no longer a blocker to more recent Rails versions, so we are no longer going to use this outdated fork. The current version of the public gem, https://github.com/rails/jquery-rails, should be used instead. 
+
 # jquery-rails
 
 jQuery! For Rails! So great.
